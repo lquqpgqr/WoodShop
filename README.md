@@ -8,7 +8,9 @@ Project Members: Radit, Lemon, Abir
 **Project Description:**
 
 This is an Furniture Shop Management Software.
-This app is built using Java Swing and MSSSQL.
+A user(shop owner) can add wood, furniture to the database.
+He can take customer information and take order for furniture
+from a customer and see all order information for all the customers.
 
 **Required Softwares to run the project:**
 
