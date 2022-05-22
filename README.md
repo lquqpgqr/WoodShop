@@ -1,5 +1,5 @@
 # WoodShop
-This is an Furniture Shop Management Software. This app is built using Java Swing and MySQL.
+This is an Furniture Shop Management Software. This app is built using Java Swing and MSSSQL.
 
 **Project Name: WoodShop**
 
@@ -8,7 +8,7 @@ Project Members: Radit, Lemon, Abir
 **Project Description:**
 
 This is an Furniture Shop Management Software.
-This app is built using Java Swing and MySQL
+This app is built using Java Swing and MSSSQL.
 
 **Required Softwares to run the project:**
 
