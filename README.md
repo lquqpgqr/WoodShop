@@ -14,4 +14,6 @@ This app is built using Java Swing and MSSSQL.
 
 Java 1.8.0_291, NetBeans 8.2, Microsoft SQL Server Management Studio 18.4.
 The Sql server needs to run in 'SQL Server Authentication' mode,
-with appropriate port settings. Then Database should be created using 'project.sql' file.
+with appropriate port settings.
+
+Database should be created using 'project.sql' file.
